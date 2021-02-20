@@ -1,0 +1,13 @@
+C:\Users\ful_g\source\repos\Metaphone\Metaphone\bin\Debug\netcoreapp3.1\Metaphone.exe
+C:\Users\ful_g\source\repos\Metaphone\Metaphone\bin\Debug\netcoreapp3.1\Metaphone.deps.json
+C:\Users\ful_g\source\repos\Metaphone\Metaphone\bin\Debug\netcoreapp3.1\Metaphone.runtimeconfig.json
+C:\Users\ful_g\source\repos\Metaphone\Metaphone\bin\Debug\netcoreapp3.1\Metaphone.runtimeconfig.dev.json
+C:\Users\ful_g\source\repos\Metaphone\Metaphone\bin\Debug\netcoreapp3.1\Metaphone.dll
+C:\Users\ful_g\source\repos\Metaphone\Metaphone\bin\Debug\netcoreapp3.1\Metaphone.pdb
+C:\Users\ful_g\source\repos\Metaphone\Metaphone\obj\Debug\netcoreapp3.1\Metaphone.AssemblyInfoInputs.cache
+C:\Users\ful_g\source\repos\Metaphone\Metaphone\obj\Debug\netcoreapp3.1\Metaphone.AssemblyInfo.cs
+C:\Users\ful_g\source\repos\Metaphone\Metaphone\obj\Debug\netcoreapp3.1\Metaphone.csproj.CoreCompileInputs.cache
+C:\Users\ful_g\source\repos\Metaphone\Metaphone\obj\Debug\netcoreapp3.1\Metaphone.dll
+C:\Users\ful_g\source\repos\Metaphone\Metaphone\obj\Debug\netcoreapp3.1\Metaphone.pdb
+C:\Users\ful_g\source\repos\Metaphone\Metaphone\obj\Debug\netcoreapp3.1\Metaphone.genruntimeconfig.cache
+C:\Users\ful_g\source\repos\Metaphone\Metaphone\obj\Debug\netcoreapp3.1\Metaphone.csprojAssemblyReference.cache

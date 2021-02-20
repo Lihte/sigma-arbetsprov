@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metaphone", "Metaphone\Metaphone.csproj", "{45BA0B62-37F7-4B2C-9BFE-BDACB525E438}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metaphone.Tests", "Metaphone.Tests\Metaphone.Tests.csproj", "{8DBDC574-019A-434A-9956-C79138661294}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45BA0B62-37F7-4B2C-9BFE-BDACB525E438}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45BA0B62-37F7-4B2C-9BFE-BDACB525E438}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45BA0B62-37F7-4B2C-9BFE-BDACB525E438}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45BA0B62-37F7-4B2C-9BFE-BDACB525E438}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DBDC574-019A-434A-9956-C79138661294}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DBDC574-019A-434A-9956-C79138661294}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DBDC574-019A-434A-9956-C79138661294}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DBDC574-019A-434A-9956-C79138661294}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3CA6A79C-BF4D-4AC8-B63D-9A0FEFBDA8CE}
+	EndGlobalSection
+EndGlobal
